@@ -15,7 +15,7 @@ Campos Utilizados:
 Resultado da Planilha de 'Cálculos': Gráfico com Rótulos de Linha 'No' e 'Yes' (Annual, Monthly, Quarterly).
 
 
-## Pergunta Negócio 3 - Total de Vendas de Assinaturas do EA Play Season Pass
+## Pergunta de Negócio 3 - Total de Vendas de Assinaturas do EA Play Season Pass
 
 Construção de uma Tabela Dinâmica com a Planilha 'Bases'.
 
@@ -27,7 +27,7 @@ Campos Utilizados:
 
 Resultado da Planilha de 'Cálculos': Big Number do Rótulo de Linha 'Ultimate' (Annual, Monthly, Quarterly) para EA Play Season Pass, porque os Rótulos de Linha 'Core' e 'Standard' são nulos.
 
-## Pergunta Negócio 4 - Total de Vendas de Assinaturas do Minecraft Season Pass
+## Pergunta de Negócio 4 - Total de Vendas de Assinaturas do Minecraft Season Pass
 
 Construção de uma Tabela Dinâmica com a Planilha 'Bases'.
 
